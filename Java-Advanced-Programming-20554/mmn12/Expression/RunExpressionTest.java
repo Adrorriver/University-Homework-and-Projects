@@ -2,7 +2,7 @@
  * class holds the main method 
  * 
  * @author (amir dror) 
- * @version (2.3.2016)
+ *
  */
 public class RunExpressionTest {
 
